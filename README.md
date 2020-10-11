@@ -20,3 +20,4 @@ $ npm run generate
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
 "# api_id" 
 "# api_id01" 
+"# api_id01" 
