@@ -21,3 +21,4 @@ For detailed explanation on how things work, check out [Nuxt.js docs](https://nu
 "# api_id" 
 "# api_id01" 
 "# api_id01" 
+"# api_id01" 
